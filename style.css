@@ -32,7 +32,7 @@ html {
 }
 
 body {
-  cursor: url(/beer.png);
+  cursor: url(beer.png);
   font-family: "Epunda-Slab";
   color: var(--second-beerOne);
   background-color: var(--prima-textDark);
@@ -102,7 +102,7 @@ nav {
 
 
 .hero {
-  background-image: url("/Tipsy\ Troll\ Tavern.png");
+  background-image: url("Tipsy\ Troll\ Tavern.png");
   height: 1025px;
   background-position: center;
   background-repeat: no-repeat;
